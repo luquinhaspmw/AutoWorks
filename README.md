@@ -20,7 +20,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/luquinhaspmw/AutoWorks.git
 cd AutoWorks
 
 # Instalando Dependências
