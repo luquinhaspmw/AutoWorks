@@ -29,7 +29,7 @@ npm install
 #Executando o Projeto
 npm run dev
 ```
-Abra o navegador e acesse `http://localhost:3000` para ver seu projeto em execução. 
+Abra o navegador e acesse `http://localhost:5173` para ver seu projeto em execução. 
 
 # 🛠 Tecnologias
 
